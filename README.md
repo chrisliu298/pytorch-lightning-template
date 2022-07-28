@@ -11,5 +11,4 @@ torch==1.11.0
 torchinfo==1.6.3
 torchmetrics==0.7.2
 wandb==0.12.11
-
 ```
