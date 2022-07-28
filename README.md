@@ -1,6 +1,6 @@
 # pytorch-lightning-template
 
-This is a simple [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/) template I use for classification tasks. For real use cases/examples, see [cifar-baseline](https://github.com/chrisliu298/cifar-baseline) and [imdb-baseline](https://github.com/chrisliu298/imdb-baseline). Feel free to modify and adapt it to your own setup. The required packages are listed below:
+This is a minimal [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/stable/) template I use for classification tasks. For real use cases/examples, see [cifar-baseline](https://github.com/chrisliu298/cifar-baseline) and [imdb-baseline](https://github.com/chrisliu298/imdb-baseline). Feel free to modify and adapt it to your own setup. The required packages are listed below:
 
 ```text
 easydict==1.9
